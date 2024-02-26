@@ -1,0 +1,3 @@
+To run the programs use the following commands:
+      python server.py
+      python client.py server_address port_number
